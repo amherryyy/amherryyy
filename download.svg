@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#17243A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="784" y1="46" x2="1118" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3C7" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#8BA8FF" stop-opacity=".76"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#C9D5E7" stroke-opacity=".055"/>
+    </pattern>
+    <linearGradient id="fade" x1="748" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3C7" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7DD3C7" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#base)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#fade)"/>
+  <path d="M760 280C838 205 889 162 968 149C1032 138 1096 155 1200 76" stroke="url(#accent)" stroke-opacity=".52" stroke-width="1.5"/>
+  <path d="M790 280C868 224 919 193 981 186C1066 176 1122 200 1200 150" stroke="url(#accent)" stroke-opacity=".28" stroke-width="1"/>
+  <circle cx="968" cy="149" r="4" fill="#7DD3C7"/>
+  <circle cx="968" cy="149" r="13" stroke="#7DD3C7" stroke-opacity=".22"/>
+  <rect x="72" y="67" width="4" height="146" rx="2" fill="url(#accent)"/>
+  <text x="101" y="94" fill="#A9B8CE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.2">COMPUTER SCIENCE  /  SOFTWARE PROJECTS</text>
+  <text x="99" y="157" fill="#F4F7FB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="650" letter-spacing="-1.5">Amher Bolante</text>
+  <text x="102" y="191" fill="#B9C7D9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="17">Web applications and developer tools</text>
+  <text x="1117" y="230" text-anchor="end" fill="#A9B8CE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">SELECTED WORK</text>
+</svg>
