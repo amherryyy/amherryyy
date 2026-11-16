@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Amher Bolante — Computer Science student and Software Engineer" width="100%">
+  <img src="profile-banner.svg" alt="Amher Bolante — Computer Science student and Software Engineer" width="100%">
 </p>
 
 ## About Me
