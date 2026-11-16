@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="profile-banner.svg" alt="Amher Bolante — Computer Science student and Software Engineer" width="100%">
+  <img src="assets/profile-banner.svg" alt="Amher Bolante — Computer Science student and Software Engineer" width="100%">
 </p>
 
-## 💫 About Me
+## About Me
 
 Hi, I’m Amher, a Computer Science student and Software Engineer from the Philippines.<br><br>
 My interests include full-stack development, software architecture, database systems, and application security. I’m building experience through projects that solve practical problems.
 
-## 🌐 Socials
+## Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amher%20Bolante)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prgr_mhr)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehmabolante@gmail.com)
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -60,28 +60,14 @@ A framework for validating and evolving structured software projects.
 A mobile-first pilot for finding and comparing student boarding houses.  
 `TypeScript` · `Next.js` · `Supabase`
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=amherryyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Public GitHub statistics">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=amherryyy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-  <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amherryyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used programming languages">
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amherryyy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies">
-</p>
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amherryyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amherryyy&icon=0&color=0" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=amherryyy&icon=0&color=blue" alt="Profile views">
 </p>
