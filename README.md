@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Amher Bolante</h1>
+<p align="center">Computer Science student · Software developer</p>
 
-<!--
-**amherryyy/amherryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build practical web applications and developer tools, with a focus on clear workflows, reliable behavior, and thoughtful user experience.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+| Project | About |
+| --- | --- |
+| [Duno](https://github.com/amherryyy/Talas) (repository name: `Talas`) | A study planning and tracking app with academic analytics. |
+| [Flower](https://github.com/amherryyy/Flower) | A TypeScript framework for validating and safely evolving structured software projects. |
+| [RoomScouter](https://github.com/amherryyy/RoomScouter) | A mobile-first pilot for discovering and comparing student boarding houses near a university. |
+
+### Technologies
+
+**Languages**  PHP · TypeScript · JavaScript · SQL  
+**Frameworks**  CodeIgniter 4 · Next.js  
+**Data**  MySQL / MariaDB · PostgreSQL · Supabase  
+**Tools**  Git · npm
+
+These technologies reflect tools used across the projects above; they are not proficiency rankings.
+
+---
+
+<p align="center">Learn continuously. Build with care. Improve through feedback.</p>
