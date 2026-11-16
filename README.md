@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Amher Bolante — Computer Science student and software developer" width="100%">
+  <img src="profile-banner.svg" alt="Amher Bolante — Computer Science student and Software Engineer" width="100%">
 </p>
 
 ## 💫 About Me
 
-Hi, I’m Amher, a Computer Science student and aspiring Software Engineer from the Philippines.<br><br>
+Hi, I’m Amher, a Computer Science student and Software Engineer from the Philippines.<br><br>
 My interests include full-stack development, software architecture, database systems, and application security. I’m building experience through projects that solve practical problems.
 
 ## 🌐 Socials
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amher%20Bolante)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prgr_mhr)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehmabolante@gmail.com)
 
