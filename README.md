@@ -1,29 +1,35 @@
-<h1 align="center">Amher Bolante</h1>
-<p align="center">Computer Science student · Software developer</p>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Amher Bolante — Computer Science and software projects" width="100%">
+</p>
 
 <p align="center">
-  I build practical web applications and developer tools, with a focus on clear workflows, reliable behavior, and thoughtful user experience.
+  Computer Science student · Software developer<br>
+  Building useful applications and developer tools with care.
+</p>
+
+<p align="center">
+  <a href="https://github.com/amherryyy">GitHub</a>
 </p>
 
 ---
 
-### Selected work
+## Selected work
 
-| Project | About |
-| --- | --- |
-| [Duno](https://github.com/amherryyy/Talas) (repository name: `Talas`) | A study planning and tracking app with academic analytics. |
-| [Flower](https://github.com/amherryyy/Flower) | A TypeScript framework for validating and safely evolving structured software projects. |
-| [RoomScouter](https://github.com/amherryyy/RoomScouter) | A mobile-first pilot for discovering and comparing student boarding houses near a university. |
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Duno](https://github.com/amherryyy/Talas) | Study planning, tracking, and academic analytics. Repository name: `Talas`. | PHP · CodeIgniter 4 · MySQL |
+| [Flower](https://github.com/amherryyy/Flower) | A framework for validating and evolving structured software projects. | TypeScript · Node.js · PostgreSQL |
+| [RoomScouter](https://github.com/amherryyy/RoomScouter) | A mobile-first pilot for finding and comparing student boarding houses. | TypeScript · Next.js · Supabase |
 
-### Technologies
+## Tools I use
 
 **Languages**  PHP · TypeScript · JavaScript · SQL  
 **Frameworks**  CodeIgniter 4 · Next.js  
 **Data**  MySQL / MariaDB · PostgreSQL · Supabase  
-**Tools**  Git · npm
+**Workflow**  Git · npm
 
-These technologies reflect tools used across the projects above; they are not proficiency rankings.
+The technologies listed are drawn from these projects; they are not proficiency rankings.
 
 ---
 
-<p align="center">Learn continuously. Build with care. Improve through feedback.</p>
+<p align="center"><sub>Learn continuously · Build with care · Improve through feedback</sub></p>
